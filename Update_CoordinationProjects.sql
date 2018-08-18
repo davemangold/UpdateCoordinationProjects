@@ -14,7 +14,7 @@ BEGIN
 DECLARE
 	@FoCallYears		int = -5,
 	@InspectionYears	int = -5,
-	@DetailReportRoot varchar(max) = 'http://biprod.usa.org/ReportServer/Pages/ReportViewer.aspx?/SSRS/Reports/GIS/'
+	@DetailReportRoot	varchar(max) = 'http://<removed_for_security>/ReportServer/Pages/ReportViewer.aspx?/SSRS/Reports/GIS/'
 
 
 /* UPDATE PROJECT INFORMATION */
